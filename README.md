@@ -1,4 +1,4 @@
-# Loan risk binary classification using classic logistic and tree models 
+# Loan risk binary classification using logistic and tree models 
 
 ## Data<br/>
 'data.frame':	26315 obs. of  8 variables:<br/>
